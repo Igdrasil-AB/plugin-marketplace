@@ -558,7 +558,7 @@
         ]
       }
     },
-    "igdrasil-bokforing": {
+    "igdrasil": {
       "sha": "3b26a46b46e785391e8e3b54594f210c8315bf05",
       "version": "0.1.0",
       "components": {
